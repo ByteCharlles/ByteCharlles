@@ -1,67 +1,60 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=header&text=Charlles%20Dannilo&fontSize=50&fontColor=ffffff"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+my+name+is+Charlles+Dannilo;I'm+27+years+old;I'm+from+Brazil;I+study+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div  align="center" style="margin-bottom:100px">
-  <img width=47% align="center"  src="https://github-readme-stats.vercel.app/api?username=bytecharlles&show_icons=true&theme=dracula" />
-  <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=bytecharlles&theme=dracula&mode=weekly" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=25&center=true&vCenter=true&width=1000&lines=Hi+there,+my+name+is+Charlles+Dannilo;I'm+from+Brazil;Data+Engineer+in+the+making;SQL,+Python+and+PySpark;Building+scalable+data+pipelines;Welcome+to+my+data+world!+🚀" />
 </div>
-&nbsp;
-&nbsp;
 
-[![Charlles github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bytecharlles&bg_color=282a36&color=ff79c6&line=bd93f9&point=44475a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 👨‍💻 Sobre Mim
+Atuo desde 2022 na área de dados, combinando a precisão da **Engenharia Mecânica** com a agilidade da **Análise e Desenvolvimento de Sistemas**. Atualmente, foco na construção de **Data Pipelines** escaláveis e na automação de processos dentro do ecossistema de Nuvem.
 
-## My Skills
+* 🛠️ Atualmente estudando com: **Databricks**, **Azure** e **Pyspark**.
+* 🎓 Graduado em **Engenharia Mecânica** e **Análise e Desenvolvimento de Sistemas (UDF)**.
+* 🌍 Idiomas: Inglês (Intermediário B1), Francês (A2) e Português (Nativo).
 
-#### Main Stack:
+---
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+## 🚀 Skills de Engenharia & Dados
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Secondary Stack:
+### 🏗️ Data Engineering & Cloud
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-blue?style=for-the-badge)
+![Pipeline](https://img.shields.io/badge/Pipelines-blue?style=for-the-badge)
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+### 🐍 Linguagens & Bancos de Dados
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Studying in this moment:
+### 📊 Business Intelligence
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Spotfire](https://img.shields.io/badge/TIBCO_Spotfire-004C97?style=for-the-badge)
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+---
 
-#### Databases:
+## 📈 Estatísticas & Atividade
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)&nbsp;
-![SublimeText](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
-<a href="https://www.instagram.com/sallesystem" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:sallescharlles96@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/devcharlles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bytecharlles}/count.svg" /></p> 
 <br>
+
+<div align="center">
+  <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=bytecharlles&bg_color=2e3440&color=88c0d0&line=81a1c1&point=eceff4&area=true&hide_border=true" />
 </div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+---
+
+## 📫 Conecte-se comigo:
+<div align="center">
+  <a href="https://www.linkedin.com/in/devcharlles/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:sallescharlles96@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=footer"/>
